@@ -1,2 +1,2 @@
 # Projeto_PowerBI
-Atividade desenvolvida no curso de Power BI - Data Science Academy
+Estudo de caso trabalhado no curso de Power BI - Data Science Academy
